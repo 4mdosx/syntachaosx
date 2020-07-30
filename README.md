@@ -1,6 +1,6 @@
 ### 🧮
 
-🌱 I’m currently learning CS/MIDI
+🌱 I’m currently learning CS/MIDI  
 👯 I’m looking to collaborate on React/Web-UI/Blog/RSS/TelegramBot/TRPG
 
 <!--
