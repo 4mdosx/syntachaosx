@@ -1,7 +1,7 @@
 ### 🧮
 
-🌱 I’m currently learning CS/MIDI  
-👯 I’m looking to collaborate on React/Web-UI/Blog/RSS/TelegramBot/TRPG
+♨️ Addicted to online courses
+👯 Web-UI/RSS/TRPG
 
 <!--
 **syntachaosx/syntachaosx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
